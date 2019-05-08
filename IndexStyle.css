@@ -5,15 +5,31 @@
 }
 
 h1 {
-    padding: 50px;
+    padding-left: 50px;
 }
-h1 img {
-    padding-top: 25px;
+h3 {
+    padding-top: 10px;
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+p {
+    padding-left: 65px;
+}
+
+#intro {
+    background: lightblue;
+    color: black;
+    margin: 0px;
+
+}
+
+#WorkExperience {
+    background: lightskyblue;
+    color: black;
+    padding-left: 65px;
+    padding-bottom: 10px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(130, 219, 235));
+}
