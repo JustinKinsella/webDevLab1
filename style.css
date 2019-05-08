@@ -1,1 +1,25 @@
+body {
+    background-color: darkslategrey;
+    padding: 40px;
+}
 
+h1 {
+    color: lightcoral;
+}
+
+h2 {
+    color: lightblue;
+}
+
+p {
+    color: lightslategray;
+}
+ul {
+    background-color: lightslategray;
+    border: 7px solid purple;
+    border-radius: 3px;
+}
+li {
+    color: purple;
+   
+}
