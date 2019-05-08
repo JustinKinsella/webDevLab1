@@ -30,6 +30,11 @@ p {
     margin: 0px;
 }
 
+#Find-me {
+    background: lightcyan;
+    padding-left: 65px;
+}
+
 body {
     background-color: rgb(130, 219, 235));
 }
