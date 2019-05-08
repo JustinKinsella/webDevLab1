@@ -3,3 +3,17 @@
     color: whitesmoke;
     border-color: whitesmoke;
 }
+
+h1 {
+    padding: 50px;
+}
+h1 img {
+    padding-top: 25px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
